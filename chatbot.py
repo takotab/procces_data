@@ -8,7 +8,7 @@ from nltk.tokenize import wordpunct_tokenize
 from nltk.stem.snowball import EnglishStemmer
 import matplotlib.pyplot as plt
 import time
-import gensim
+# import gensim
 stemmer = EnglishStemmer()
 import os
 
